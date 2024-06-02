@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "ENVS193DS-Quarto Website"
+  title: "Yicong Zeng"
   navbar:
     left:
       - href: index.qmd
@@ -16,4 +17,3 @@ format:
     toc: true
 
 editor: visual
-
