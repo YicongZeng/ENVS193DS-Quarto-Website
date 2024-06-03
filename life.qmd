@@ -1,0 +1,23 @@
+---
+title: "Life"
+---
+
+# Some Pictures from My Life
+
+Here is a record of my life photos, including my hobbies and interesting things around. Hope you enjoy it!
+
+## Planting enthusiast
+
+![](images/clipboard-3400125300.png){width="750"}
+
+![](images/clipboard-736955714.png)
+
+## My two lovely puppies
+
+![](images/clipboard-3031293543.png)
+
+![](images/clipboard-1995604175.png)
+
+## Playing Badminton!
+
+![![](images/clipboard-1456322185.png)](images/clipboard-1109325615.png)

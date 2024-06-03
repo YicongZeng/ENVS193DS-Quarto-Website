@@ -1,9 +1,30 @@
 [
   {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "I benefited a lot from the course content of Geography 192, which taught us how to mitigate urban and environmental problems by creating mathematical models and GIS Mapping.Here are\nHere is a example from my Lab report, which exploring the spatial efficiency of existing and optimized fire facility placement strategies in Santa Barbara.\n\n\nUsing interactive map to determine the fire stations in SB\n\n\n\n\nConstructing Mathematical Model\nThe objective of this model is to minimize the number of fire stations selected while no demand area will be further than the maximal service.\n\n\n\n\n\nOptimizing and visualizing the model via Gurobi (A model optimizer)\n\n\n\n\nGetting result\n\n\nFor more details: you can visit my other personal profile website if you are interested:\nhttps://yicongzeng.github.io/\n\n\n\nReference:\nMurray, Alan T., et al. “Geographic Fire Response Standards Emerging from Human-Environment Interactions.” Department of Geography, University of California at Santa Barbara, 4 Mar. 2024."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yicong Zeng",
+    "section": "",
+    "text": "About me\nHi! Thanks for stopping by here. My name is Yicong Zeng, you can also call me Kevin. I’ m a third year Environmental Studies students at UCSB. I enjoy studying GIS, geomorphology, and environmental impact analysis, helping me use geographic information systems to better understand and address environmental issues.\n\n\nEducational Background\nB.A in Environmental Studies\nUniversity of California, Santa Barbara"
+  },
+  {
+    "objectID": "life.html",
+    "href": "life.html",
+    "title": "Life",
+    "section": "",
+    "text": "Here is a record of my life photos, including my hobbies and interesting things around. Hope you enjoy it!"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\nWelcome to my personal space on the internet! This site is a window into my life and academic journey as an Environmental Studies major at UCSB. Here, you’ll find a mix of personal insights and my projects that reflect my passion for environmental solutions and GIS.\nSunrise in Santa Barbara\n\n\n\n\n\nGIS Data Layers"
   }
 ]

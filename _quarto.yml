@@ -9,11 +9,15 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - life.qmd
+      - portfolio.qmd
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: litera
+    css: styles.scss
     toc: true
+    mainfont: Times
+    page-layout: full
 
 editor: visual

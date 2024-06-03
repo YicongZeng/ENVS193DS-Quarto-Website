@@ -2,8 +2,14 @@
 title: "About"
 ---
 
-About this site
+# About this site
 
-```{r}
-1 + 1
-```
+Welcome to my personal space on the internet! This site is a window into my life and academic journey as an Environmental Studies major at UCSB. Here, you'll find a mix of personal insights and my projects that reflect my passion for environmental solutions and GIS.
+
+Sunrise in Santa Barbara
+
+![](images/clipboard-3918727795.png){fig-align="left" width="1272"}
+
+GIS Data Layers
+
+![](images/clipboard-303153538.png)

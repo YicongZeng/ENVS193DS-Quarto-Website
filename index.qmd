@@ -1,8 +1,9 @@
 ---
 title: "Yicong Zeng"
 image: headshot.jpeg
+toc: false
 about: 
-  template: trestles
+  template: solana
   image-shape: round
   image-width: 20em
   links:
@@ -13,3 +14,13 @@ about:
     - text: Email
       href: mailto:yicong@ucsb.edu
 ---
+
+# About me
+
+Hi! Thanks for stopping by here. My name is Yicong Zeng, you can also call me Kevin. I' m a third year Environmental Studies students at UCSB. I enjoy studying GIS, geomorphology, and environmental impact analysis, helping me use geographic information systems to better understand and address environmental issues.
+
+# Educational Background
+
+B.A in Environmental Studies
+
+University of California, Santa Barbara

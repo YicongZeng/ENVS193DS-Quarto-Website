@@ -1,0 +1,47 @@
+---
+title: "Portfolio"
+---
+
+I benefited a lot from the course content of Geography 192, which taught us how to mitigate urban and environmental problems by creating mathematical models and GIS Mapping.Here are
+
+Here is a example from my Lab report, which exploring the spatial efficiency of existing and optimized fire facility placement strategies in Santa Barbara.
+
+---
+
+### Using interactive map to determine the fire stations in SB 
+
+![](images/clipboard-3715857595.png)
+
+---
+
+### Constructing Mathematical Model
+
+The objective of this model is to minimize the number of fire stations selected while no demand area will be further than the maximal service.
+
+![](images/clipboard-4057484011.png)
+
+![](images/clipboard-3313775924.png)
+
+---
+
+### Optimizing and visualizing the model via Gurobi (A model optimizer)
+
+![](images/clipboard-250242181.png)
+
+---
+
+### Getting result
+
+![](images/clipboard-3035731851.png)
+
+---
+
+For more details: you can visit my other personal profile website if you are interested:
+
+[**https://yicongzeng.github.io/**](https://yicongzeng.github.io/)
+
+---
+
+# Reference:
+
+Murray, Alan T., et al. "Geographic Fire Response Standards Emerging from Human-Environment Interactions." *Department of Geography, University of California at Santa Barbara*, 4 Mar. 2024.
