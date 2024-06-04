@@ -14,7 +14,7 @@ website:
 
 format:
   html:
-    theme: litera
+    theme: cerulean
     css: styles.scss
     toc: true
     mainfont: Times
